@@ -4,13 +4,25 @@
 
 Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 
-![RecoverPy](https://repo.x-cmd.io/RecoverPy.svg)
+![RecoverPy](https://repo.x-cmd.io/RecoverPy.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install RecoverPy
 ```
+
+## 代码洞察
+
+合计: **3,128** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 2,786 | 47 | 758 | 56 |
+| Css | 213 | 0 | 41 | 6 |
+| Toml | 108 | 0 | 7 | 1 |
+| Svg | 21 | 0 | 0 | 1 |
+| Markdown | 0 | 127 | 76 | 2 |
 
 ## 源代码
 
@@ -21,7 +33,6 @@ x install RecoverPy
 
 - **最新版本**: `2.3.0` (2026-02-14)
 - **最近提交**: 2026-07-21
-- **发布时间**: 2026-02-14T13:33:31Z
 
 ## 流行度
 
@@ -35,21 +46,12 @@ x install RecoverPy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 3 | 3 | 0 | 1 | 3 |
-| 360d | 2025-09-15 | 1 | 21 | 3 | 0 | 1 | 47 |
-
-## 代码规模
-
-合计: **3,128** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 2,786 | 47 | 758 | 56 |
-| Css | 213 | 0 | 41 | 6 |
-| Toml | 108 | 0 | 7 | 1 |
-| Svg | 21 | 0 | 0 | 1 |
-| Markdown | 0 | 127 | 76 | 2 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 1 | 3 | 0 | 1 | 1 |
+| 90d | 2026-06-13 | 0 | 3 | 3 | 0 | 1 | 3 |
+| last180d | 2026-03-15 | 0 | 14 | 3 | 0 | 1 | 14 |
+| 360d | 2025-09-16 | 1 | 21 | 3 | 0 | 1 | 47 |
+| last720d | 2024-09-21 | 4 | 61 | 3 | 0 | 1 | 154 |
 
 ## 改进这些数据
 
@@ -60,4 +62,4 @@ RecoverPy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:27:07Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:07:12Z._
