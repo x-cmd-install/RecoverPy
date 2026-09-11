@@ -36,7 +36,7 @@ x install RecoverPy
 
 ## 流行度
 
-- **Star**: 1,787 · **Fork**: 89 · **开放 issue**: 25 · **贡献者**: 4
+- **Star**: 1,788 · **Fork**: 89 · **开放 issue**: 25 · **贡献者**: 4
 
 ## 累计统计
 
@@ -62,4 +62,4 @@ RecoverPy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T00:07:12Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T05:36:03Z._
