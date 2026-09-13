@@ -46,12 +46,12 @@ Total: **3,128** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-14 | 0 | 1 | 2 | 0 | 1 | 1 |
-| 90d | 2026-06-14 | 0 | 3 | 3 | 0 | 1 | 3 |
-| last180d | 2026-03-16 | 0 | 14 | 3 | 0 | 1 | 14 |
-| 360d | 2025-09-17 | 1 | 21 | 3 | 0 | 1 | 47 |
-| last720d | 2024-09-22 | 4 | 61 | 3 | 0 | 1 | 154 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 0 | 1 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-15 | 0 | 3 | 3 | 0 | 1 | 2 |
+| last180d | 2026-03-17 | 0 | 14 | 3 | 0 | 1 | 14 |
+| 360d | 2025-09-18 | 1 | 21 | 3 | 0 | 1 | 47 |
+| last720d | 2024-09-23 | 4 | 60 | 3 | 0 | 1 | 154 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for RecoverPy lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:22:51Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:35:14Z._
