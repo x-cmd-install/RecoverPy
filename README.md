@@ -36,7 +36,7 @@ Total: **3,128** lines of code across **66** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,793 · **Forks**: 91 · **Open issues**: 25 · **Contributors**: 4
+- **Stars**: 1,795 · **Forks**: 91 · **Open issues**: 25 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **3,128** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-30 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last180d | 2026-05-01 | 0 | 5 | 3 | 1 | 0 | 5 |
-| 360d | 2025-11-02 | 1 | 19 | 3 | 1 | 0 | 43 |
-| last720d | 2024-11-07 | 4 | 52 | 3 | 1 | 0 | 138 |
+| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-31 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last180d | 2026-05-02 | 0 | 5 | 3 | 1 | 0 | 5 |
+| 360d | 2025-11-03 | 1 | 19 | 3 | 1 | 0 | 43 |
+| last720d | 2024-11-08 | 4 | 51 | 3 | 1 | 0 | 138 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for RecoverPy lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:13:30Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:31:39Z._
